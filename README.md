@@ -26,7 +26,7 @@ Dieses Repository enthält ein Startskript (`start_server.bat`) für Minecraft B
 
 ## Anpassung:
 
-- Die `start_server.bat`-Datei kann für den persönlichen Gebrauch angepasst werden.
+- Die `start_server.bat`-Datei darf nicht angepasst werden.
 
 ## Hinweise:
 
@@ -41,4 +41,4 @@ Dieses Repository enthält ein Startskript (`start_server.bat`) für Minecraft B
 
 ## Kontakt:
 
-Bei Fragen oder Problemen kontaktiere [deinen GitHub-Benutzernamen] (Kaliminu5511).
+Bei Fragen oder Problemen kontaktiere (Kaliminu5511).
